@@ -6,7 +6,8 @@ An advanced AI-powered version of Tic Tac Toe featuring layered boards, bonus tu
 
 ## 📽️ Demo Video
 
-[Watch Gameplay Demo](https://github.com/samraify/triple-threat-ai/raw/refs/heads/main/k224585%20ai%20demo%20video.mp4)
+[Download Gameplay Demo](https://github.com/samraify/triple-threat-ai/raw/refs/heads/main/k224585%20ai%20demo%20video.mp4) 
+This video is part of the repo so in order to view it please click on the URL and download.
 
 ---
 

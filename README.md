@@ -17,9 +17,7 @@ An advanced AI-powered version of Tic Tac Toe featuring layered boards, bonus tu
 - [AI Design](#ai-design)
 - [Game Mechanics](#game-mechanics)
 - [Installation](#installation)
-- [Technologies Used](#technologies-used)
-- [How to Play](#how-to-play)
-- [Credits](#credits)
+- [Group Members](#-group-members)
 
 ---
 
